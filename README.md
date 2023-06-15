@@ -21,3 +21,12 @@ Electronic Commerce
 Feel free to use it, and shout out to Amy@GrabNGoInfo to create the base of CF python code. You can also
 try to visi their website (https://medium.com/grabngoinfo/recommendation-system-user-based-collaborative-filtering-a2e76e3e15c4)
 and try the vanilla code by yourself for CF models only.
+
+
+Please use the Revised ipynb, which is contain all 4 algorithm for models
+
+
+you can also see my work (but it is little bit messy :ppp, haha..)
+https://colab.research.google.com/drive/1IoX2zU_wDSObK5_UNk5Z6MInVmSWGDt_?usp=sharing
+https://colab.research.google.com/drive/1J226jQVjJhKvLUFpqgw15z2bZQ1mQRj3?usp=sharing
+feel free
